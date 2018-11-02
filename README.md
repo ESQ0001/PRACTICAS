@@ -1,5 +1,1 @@
 # PRACTICAS
-
-si
-
-NO
